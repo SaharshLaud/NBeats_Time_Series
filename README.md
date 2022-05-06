@@ -87,3 +87,11 @@ In order to use this basic repo for implementing NBeats model you can follow the
  4. Run the notebook to get the NBeats model results for your dataset.
  5. Open the `iteration/nbeats_iter.py` file and modify the dataset path according to your directory.
  6. Run the iteration file to create NBeats models for all the time series in your directory.
+
+
+# What works and what doesn't
+The given Machine Learning Challenge was truly inspiring and challenges my concepts and knowledge in the field of Machine Learning. Out of the given tasks, I was able to implement the NBeats model usiing Pytorch and apply it for the enitre 50 time series data files. 
+
+The second task regarding REvin normalization was a little beyond my current knowledge base and although I was able to understand how Revin works by normalizing and then denormalizing the time series data to improve performance, I was not able to implement the same in my NBeats pipeline. 
+
+All the tasks were performed to the best of my abilities and potential and I hope to higly scale my knowledge and capabilities in the field of Machine Learning as a part of Greendeck ML team.
