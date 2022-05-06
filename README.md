@@ -90,7 +90,7 @@ In order to use this basic repo for implementing NBeats model you can follow the
 
 
 # What works and what doesn't
-The given Machine Learning Challenge was truly inspiring and challenges my concepts and knowledge in the field of Machine Learning. Out of the given tasks, I was able to implement the NBeats model usiing Pytorch and apply it for the enitre 50 time series data files. 
+The given Machine Learning Challenge was truly inspiring and challenged my concepts and knowledge in the field of Machine Learning. Out of the given tasks, I was able to implement the NBeats model using Pytorch implementation and apply it for the enitre 50 time series data files. 
 
 The second task regarding REvin normalization was a little beyond my current knowledge base and although I was able to understand how Revin works by normalizing and then denormalizing the time series data to improve performance, I was not able to implement the same in my NBeats pipeline. 
 
